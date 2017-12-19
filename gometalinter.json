@@ -1,0 +1,10 @@
+
+{
+    "Linters":
+    {
+        "vet":
+        {
+            "Command": "go tool vet"
+        }
+    }
+}
