@@ -1,8 +1,8 @@
-[![Travis Status for RichardKnop/go-slack](https://travis-ci.org/RichardKnop/go-slack.svg?branch=master)](https://travis-ci.org/RichardKnop/go-slack)
-
 # go-slack
 
 A simple Golang SDK for Slack.
+
+[![Travis Status for RichardKnop/go-slack](https://travis-ci.org/RichardKnop/go-slack.svg?branch=master)](https://travis-ci.org/RichardKnop/go-slack)
 
 ## Usage
 
